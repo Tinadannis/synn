@@ -1,0 +1,12 @@
+{
+    "name": "tinadannis/synn",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Tina",
+            "email": "hongsebeiyu_jd@qq.com"
+        }
+    ],
+    "require": {}
+}
